@@ -1,0 +1,9 @@
+body		{ background: #8ef; }
+
+#page-wrap:after { content: "Smartphone Layout"; }
+
+h2 span, section h3  { display: none; }
+body		{ font-size: xx-large; }
+input, input 	{ font-size: x-large; }
+footer	 	{ font-size: large; }
+.quiz_img	{float: none; }

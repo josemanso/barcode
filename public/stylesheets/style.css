@@ -1,8 +1,21 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+*		{ margin: 0px; padding: 0px;}
+body    	{ font: 16px Georgia, serif;}
+
+#page-wrap	{ margin: 2% auto; color: black; }
+#page-wrap > .main { border: 1px solid #999; padding: 1%;
+		     margin-bottom: 1px; color: black; }
+		     
+section > div	{ padding: 20px; }
+header, nav, section {background:#EFC; text-align: center; }
+footer		{ background: #efc; text-align: center; }
+nav span	{ margin: 0px 10px 0px 0px;}
+
+#ErrorMsgs	{ color: #f61; font-size: smaller;}
+
+.right {float: right;}
+
+.quiz_img {height: 150px; float: left;}
 
 a {
-  color: #00B7FF;
+  color: red;
 }
