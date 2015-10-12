@@ -6,7 +6,10 @@ Para dibujar uso gm “GraphisMagick”
 La codificación la hago en lib/code39N.
 La imagen se guarda en public/images, y la salida en la vista imagen, la retardo, para que de tiempo a codificar y dibujar la nueva imagen.
 
+
 Run: npm strart ;en port 3000 y nf start; foreman start, en port 5000
+
+En heroku: https://barcode-39.herokuapp.com/
 
 Información sobre barcode 39:
 http://www.adams1.com/39code.html
